@@ -130,7 +130,7 @@ export default function LandingPage() {
       mediaAnimation="slide-up"
       faqsAnimation="slide-up"
       textboxLayout="split"
-      imageSrc="http://img.b2bpic.net/free-photo/guest-asking-girl-slope-direction_482257-76589.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/guest-asking-girl-slope-direction_482257-76589.jpg?_wi=1"
     />
   </div>
 
@@ -143,7 +143,7 @@ export default function LandingPage() {
         { name: "name", type: "text", placeholder: "Full Name", required: true },
         { name: "email", type: "email", placeholder: "Email Address", required: true }
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/guest-asking-girl-slope-direction_482257-76589.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/guest-asking-girl-slope-direction_482257-76589.jpg?_wi=2"
     />
   </div>
 
