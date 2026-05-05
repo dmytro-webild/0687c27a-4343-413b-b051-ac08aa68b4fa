@@ -93,6 +93,7 @@ export default function LandingPage() {
 
   <div id="trust-metrics" data-section="trust-metrics">
       <MetricCardEleven
+      useInvertedBackground={false}
       animationType="blur-reveal"
       title="AI-Enhanced Impact"
       description="Leveraging intelligent data to measure our dedication to community welfare."
@@ -118,6 +119,7 @@ export default function LandingPage() {
 
   <div id="faq" data-section="faq">
       <FaqSplitMedia
+      useInvertedBackground={false}
       title="Frequently Asked Questions"
       description="Everything you need to know about our smart welfare system."
       faqs={[
@@ -134,6 +136,7 @@ export default function LandingPage() {
 
   <div id="contact" data-section="contact">
       <ContactSplitForm
+      useInvertedBackground={false}
       title="Connect with us"
       description="Start your journey with us today."
       inputs={[
